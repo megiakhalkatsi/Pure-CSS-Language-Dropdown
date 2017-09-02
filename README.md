@@ -8,4 +8,4 @@ You will have to use some JavaScript or other language to change the language on
 
 I like to use query tags with dyanmic content.
 
-Check it out in app.html.
+Check it out: https://nicholasgriffin.co.uk/playground/Pure-CSS-Language-Dropdown/app.html
